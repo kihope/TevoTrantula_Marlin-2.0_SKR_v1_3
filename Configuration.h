@@ -20,6 +20,8 @@
     this firmware.
 ***********************************************************************/
 
+#define PRINTER_NAME "TEVO Tarantula SKR 1.3"
+
 /**
  * Equipment options
  */
